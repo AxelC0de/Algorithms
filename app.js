@@ -42,3 +42,6 @@ function searchElement(arr, el) {
 }
 
 console.log(searchElement(arr, 8))
+
+
+console.log('Hello')
